@@ -20,6 +20,11 @@
     Cross-Origin-Embedder-Policy = "require-corp"
 
 [[redirects]]
+  from = "/tour"
+  to = "/tour/blink/onboard"
+  status = 307
+
+[[redirects]]
   from = "/bluetooth"
   to = "https://github.com/tinygo-org/bluetooth#go-bluetooth"
   status = 301
