@@ -15,7 +15,7 @@ You can use Homebrew to install TinyGo using the following commands:
 
 ```shell
 brew tap tinygo-org/tools
-brew install tinygo
+brew install tinygo-org/tools/tinygo
 ```
 
 ### Alternative installation
